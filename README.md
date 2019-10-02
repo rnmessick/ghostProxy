@@ -4,6 +4,9 @@ We'll be using ghost.org as an example
 
 # Steps
 
+# Ghost Installation 
+## Things we wished we knew
+  - [We should have followed these directions](https://ghost.org/docs/install/ubuntu/)
 ## Beginning Steps
 
 - make a directory to store this and go into that directory
